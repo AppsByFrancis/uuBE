@@ -1,0 +1,9 @@
+{
+	"listId": "list123",
+	"ownerId": "user123",
+	"items": [
+		{ "itemId": "item1", "name": "Milk", "completed": false },
+		{ "itemId": "item2", "name": "Bread", "completed": true }
+	],
+	"invitedUsers": ["user456", "user789"]
+}

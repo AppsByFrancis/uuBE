@@ -1,0 +1,6 @@
+{
+	"userId": "user123",
+	"name": "František Majer",
+	"email": "frantisek.majer@example.com",
+	"lists": ["list1", "list2"]
+}
