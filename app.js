@@ -43,7 +43,6 @@ app.get("/list", async (req, res) => {
 		const lists = [
 			{ id: 1, name: "Groceries", items: ["Milk", "Bread"] },
 			{ id: 2, name: "Hardware", items: ["Nails", "Hammer"] },
-			// ... more lists
 		];
 
 		res.status(200).json(lists);
